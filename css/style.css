@@ -1,0 +1,11 @@
+#map{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.imglogo{
+    height: 50px;
+    width: 85px;
+}
